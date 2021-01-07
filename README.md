@@ -1,0 +1,2 @@
+# dda line drawing algorithm implementation
+In computer graphics, a digital differential analyzer (DDA) is hardware or software used for interpolation of variables over an interval between start and end point. ... DDAs are used for rasterization of lines, triangles and polygons.
